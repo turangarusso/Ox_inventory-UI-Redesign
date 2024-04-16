@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-Ox_inventory UI Redesign
+Ruxo Ox_inventory UI Redesign
   <br>
 </h1>
 
